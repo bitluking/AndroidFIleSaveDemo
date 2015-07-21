@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDataSave</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text1">文件名称</string>
+    <string name="text2">文件内容</string>
+    <string name="button1">保存</string>
+    <string name="button2">读取</string>
+    <string name="hint1">输入文件名</string>
+    <string name="hint2">输入文件内容</string> 
+</resources>
